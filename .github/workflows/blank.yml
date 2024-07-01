@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<title>Button</title>
+<head>
+	<h1>Wer wird Millionär?</h1>
+	<link rel ="stylesheet" href ="style.css" type = "text/css">
+	<button
+	OnClick="location.href='1.html'">Ich!
+	</button>
+		<button
+	OnClick="location.href='1.html'">Ich!!
+	</button>
+	<button
+	OnClick="location.href='1.html'">Ich!!!
+	</button>
+</head>   
+</body>
+</html>
+
